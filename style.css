@@ -18,7 +18,7 @@ body {
   font-family: Georgia, "Iowan Old Style", "Palatino Linotype", "Book Antiqua",
     Garamond, "Times New Roman", serif;
   line-height: 1.65;
-  font-size: 18px;
+  font-size: 19px;
 }
 
 .site-container {
@@ -41,7 +41,7 @@ body {
 .site-title a {
   text-decoration: none;
   color: var(--text);
-  font-size: 1.15rem;
+  font-size: 1.2rem;
   font-weight: 600;
 }
 
@@ -54,7 +54,7 @@ body {
 .site-nav a {
   text-decoration: none;
   color: var(--muted);
-  font-size: 0.98rem;
+  font-size: 1.0rem;
 }
 
 .site-nav a.active,
@@ -69,7 +69,7 @@ body {
 }
 
 .page-content h2 {
-  font-size: 1.2rem;
+  font-size: 1.3rem;
   margin: 0 0 10px;
   font-weight: 600;
 }
@@ -80,7 +80,7 @@ body {
 
 .tagline {
   color: var(--muted);
-  font-size: 1.05rem;
+  font-size: 1.1rem;
   margin-top: 6px;
 }
 
