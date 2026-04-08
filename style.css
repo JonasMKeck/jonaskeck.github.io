@@ -75,9 +75,14 @@ body {
   transition: background-color 0.2s ease, color 0.2s ease;
 }
 
-.site-nav a.active,
 .site-nav a:hover {
-  color: var(--accent);
+  background: var(--accent);
+  color: var(--bg);
+}
+
+.site-nav a.active {
+  background: var(--accent);
+  color: var(--bg);
 }
 
 .page-content h1 {
