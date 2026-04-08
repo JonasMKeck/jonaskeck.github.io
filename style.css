@@ -116,7 +116,7 @@ body {
 .entry-card {
   background: var(--card);
   border: 1px solid var(--line);
-  padding: 22px 24px;
+  padding: 16px 20px;
   border-radius: 0px;
 }
 
