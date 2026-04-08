@@ -139,6 +139,30 @@ body {
   margin-top: 6px;
 }
 
+.entry-summary {
+  font-size: 0.95rem;
+  margin-top: 0;
+  margin-bottom: 10px;
+}
+
+.entry-abstract {
+  margin-top: 0;
+  margin-bottom: 10px;
+}
+
+.entry-abstract summary {
+  cursor: pointer;
+  font-size: 0.95rem;
+  color: var(--accent);
+  margin-bottom: 8px;
+}
+
+.entry-abstract p {
+  font-size: 0.95rem;
+  margin-top: 8px;
+  margin-bottom: 0;
+}
+
 .meta {
   color: var(--muted);
   font-size: 0.95rem;
