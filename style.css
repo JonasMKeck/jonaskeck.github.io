@@ -175,6 +175,16 @@ body {
   margin-top: 12px;
 }
 
+.download-placeholder {
+  display: inline-block;
+  margin-top: 6px;
+  padding: 6px 10px;
+  border: 1px solid var(--line);
+  color: var(--muted);
+  background: var(--bg);
+  font-size: 0.95rem;
+}
+
 .quick-links ul {
   margin: 0;
   padding-left: 20px;
